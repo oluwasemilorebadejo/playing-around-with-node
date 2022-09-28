@@ -51,7 +51,7 @@
     "nutrients": "Vitamin A, Vitamin K",
     "quantity": "100 per boxs",
     "price": "1.69",
-    "organic": true,
+    "organic": false,
     "description": "Ice cream is a frozen dairy dessert obtained by freezing the ice cream mix with continuous agitation. It contains milk products, sweetening materials, stabilizers, colors, flavors, and egg products."
   }
 ]
