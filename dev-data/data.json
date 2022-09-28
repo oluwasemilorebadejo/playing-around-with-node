@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Pizza",
+    "image": "🍕",
+    "from": "Italy",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "100",
+    "price": "1.99",
+    "organic": false,
+    "description": "Dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot"
+  },
+  {
+    "id": 1,
+    "productName": "Hamburger",
+    "image": "🍔",
+    "from": "Portugal",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "100",
+    "price": "0.99",
+    "organic": false,
+    "description": "A hamburger is a sandwich consisting of a cooked meat patty on a bun or roll. You can order a hamburger, fries, and a shake at most fast food restaurants. Hamburgers are traditionally made with ground beef and served with onions, tomatoes, lettuce, ketchup, and other garnishes"
+  },
+  {
+    "id": 2,
+    "productName": "Meat",
+    "image": "🍖",
+    "from": "USA",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "100kg",
+    "price": "5.50",
+    "organic": true,
+    "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients. It is said to pack the most nutritional punch of any vegetable. When we think about green vegetables to include in our diet, broccoli is one of the foremost veggies to come to our mind. Broccoli is a cruciferous vegetable and part of the cabbage family, which includes vegetables such as Brussel sprouts and kale. Although the tastes are different, broccoli and these other vegetables are from the same family."
+  },
+  {
+    "id": 3,
+    "productName": "Ice Cream",
+    "image": "🍦",
+    "from": "France",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "",
+    "price": "3.00",
+    "organic": true,
+    "description": "The carrot is a root vegetable that is often claimed to be the perfect health food. It is crunchy, tasty and highly nutritious. Carrots are a particularly good source of beta-carotene, fiber, vitamin K, potassium and antioxidants. Carrots have a number of health benefits. They are a weight loss friendly food and have been linked to lower cholesterol levels and improved eye health."
+  },
+  {
+    "id": 4,
+    "productName": "Sweet Corncobs",
+    "image": "🌽",
+    "from": "Germany",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  }
+]
