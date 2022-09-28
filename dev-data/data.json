@@ -1,14 +1,14 @@
 [
   {
     "id": 0,
-    "productName": "Pizza",
-    "image": "🍕",
-    "from": "Italy",
-    "nutrients": "Vitamin B, Vitamin K",
-    "quantity": "100",
-    "price": "1.99",
-    "organic": false,
-    "description": "Dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot"
+    "productName": "Meat",
+    "image": "🍖",
+    "from": "USA",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "100kg",
+    "price": "1",
+    "organic": true,
+    "description": "the flesh or other edible parts of animals (usually domesticated cattle, swine, and sheep) used for food, including not only the muscles and fat but also the tendons and ligaments"
   },
   {
     "id": 1,
@@ -23,14 +23,14 @@
   },
   {
     "id": 2,
-    "productName": "Meat",
-    "image": "🍖",
-    "from": "USA",
-    "nutrients": "Vitamin C, Vitamin K",
-    "quantity": "100kg",
-    "price": "1",
-    "organic": true,
-    "description": "the flesh or other edible parts of animals (usually domesticated cattle, swine, and sheep) used for food, including not only the muscles and fat but also the tendons and ligaments"
+    "productName": "Pizza",
+    "image": "🍕",
+    "from": "Italy",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "100",
+    "price": "1.99",
+    "organic": false,
+    "description": "Dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot"
   },
   {
     "id": 3,
